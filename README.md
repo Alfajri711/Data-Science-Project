@@ -1,4 +1,5 @@
 **Prediksi Pemutusan Hubungan Kerja Karyawan**
+
 **1. Deskripsi Proyek**
 
 Ini adalah proyek data science untuk memprediksi apakah seorang karyawan akan mengundurkan diri atau dipecat (disebut pemutusan hubungan kerja/PHK) berdasarkan dataset Human Resources. Model prediksi dibangun menggunakan algoritma klasifikasi seperti Logistic Regression.
